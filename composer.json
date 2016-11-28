@@ -1,0 +1,23 @@
+{
+    "name": "fbaccount/fbaccount",
+    "description": "",
+    "keywords": ["framework", "laravel", "lavalite", "fbaccount"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fbaccount",
+            "email": "sonlh.bkap91@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-0": {
+            "Fbaccount\\Fbaccount\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
